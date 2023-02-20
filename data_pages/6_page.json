@@ -1,0 +1,467 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=6",
+    "items": [
+        {
+            "id": 121413,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "275 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "21 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 25220,
+            "name": "275/45 R21 110Y NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/848/275_275_1/njk8gzg48u30ljiunusysfjc08j0l3ua.png",
+            "url": "/catalog/legkovye/27545-r21-110y-nokian-tyres-hakka-black-2-suv-tl93187/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "121413",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "93187",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "25220.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430708",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 103930,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 12,
+            "season": "Летние",
+            "price": 26030,
+            "name": "245/50 R20 102H CONTINENTAL ContiCrossContact LX Sport TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/67b/275_275_1/o4ne7cr958rynjtd07tof55znevlfxhx.png",
+            "url": "/catalog/legkovye/24550-r20-102h-continental-conticrosscontact-lx-sport-tl91138/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "103930",
+                    "AMOUNT": "12",
+                    "PRODUCT_XML_ID": "91138",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "26030.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CONTINENTAL",
+            "brandCode": "254",
+            "vendorCode": "0354249",
+            "model": "ContiCrossContact LX Sport",
+            "raznItems": []
+        },
+        {
+            "id": 104029,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "295 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "21 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 26880,
+            "name": "295/40 R21 111Y NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/aac/275_275_1/ov2lcwyhniu5tv1723p7csflv4w0gh9m.png",
+            "url": "/catalog/legkovye/29540-r21-111y-nokian-tyres-hakka-black-2-suv-tl91337/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104029",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "91337",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "26880.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "",
+            "vendorCode": "T430584",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 92435,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 29570,
+            "name": "265/50 R19 110V MICHELIN Latitude Tour HP TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/e5d/275_275_1/s69erq1dva79v1go1qsz8s0qzerggwjx.png",
+            "url": "/catalog/legkovye/26550-r19-110v-michelin-latitude-tour-hp-tl94740/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92435",
+                    "AMOUNT": "6",
+                    "PRODUCT_XML_ID": "94740",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "29570.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "",
+            "vendorCode": "315703",
+            "model": "Latitude Tour HP",
+            "raznItems": []
+        },
+        {
+            "id": 104001,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 35580,
+            "name": "265/35 R20 99Y CONTINENTAL SportContact 6 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/376/275_275_1/pd1yqvbz4vnktakkw1v9dlssq5a22yy0.png",
+            "url": "/catalog/legkovye/26535-r20-99y-continental-sportcontact-6-tl91282/",
+            "promo": [],
+            "discountStores": [
+                {
+                    "STORE_ID": "196",
+                    "PRODUCT_ID": "104001",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91282",
+                    "STORE_XML_ID": "617",
+                    "STORE_NAME": "Остатки 2018",
+                    "PRICE": "10000.00",
+                    "PRICE_ID": "99"
+                }
+            ],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104001",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91282",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "35580.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CONTINENTAL",
+            "brandCode": "254",
+            "vendorCode": "0357603",
+            "model": "SportContact 6",
+            "raznItems": []
+        },
+        {
+            "id": 122186,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "275 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "21 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 80,
+            "season": "Летние",
+            "price": 37470,
+            "name": "275/40 R21 107Y MICHELIN Pilot Sport 4 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/66a/275_275_1/tcczy083w3kx2elb80axiamhx9mcxz0l.png",
+            "url": "/catalog/legkovye/27540-r21-107y-michelin-pilot-sport-4-suv-tl91122/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "122186",
+                    "AMOUNT": "80",
+                    "PRODUCT_XML_ID": "91122",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "37470.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "273",
+            "vendorCode": "406617",
+            "model": "Pilot Sport 4 SUV",
+            "raznItems": []
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "132591",
+        "url": "/promo/kupi-seychas-pereobuesh-potom/",
+        "name": "Купи сейчас, переобуешь потом",
+        "text": "Храним купленные шины бесплатно, пока не растает снег!",
+        "imgSrc": "/upload/resize_cache/iblock/f23/1075_613_1/o3a1rol4tesy733xp0x8qqy567tmv15f.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "diffWideMode": false,
+    "navNum": 1,
+    "pagesCount": 6,
+    "pageNum": 6
+}

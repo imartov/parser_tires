@@ -1,0 +1,954 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=4",
+    "items": [
+        {
+            "id": 104019,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 12980,
+            "name": "255/55 R18 109Y NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/9a3/275_275_1/82az77qceyfsr8f6dkhond5xz41155e2.png",
+            "url": "/catalog/legkovye/25555-r18-109y-nokian-tyres-hakka-black-2-suv-tl91327/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104019",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91327",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "12980.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "",
+            "vendorCode": "T430565",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 104053,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 3,
+            "season": "Летние",
+            "price": 13130,
+            "name": "245/45 R18 100W YOKOHAMA Advan Fleva V701 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/86e/275_275_1/1fy2wiwq0nifkbrz8nqc2te12g75mlpn.png",
+            "url": "/catalog/legkovye/24545-r18-100w-yokohama-advan-fleva-v701-tl91362/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104053",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91362",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "13130.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104053",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91362",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "13130.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "R3596",
+            "model": "Advan Fleva V701",
+            "raznItems": []
+        },
+        {
+            "id": 104121,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 17,
+            "season": "Летние",
+            "price": 13690,
+            "name": "215/55 R17 94V MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/4e8/275_275_1/ufrp3g55rsnaslvdb6z29t30pwm7xyd3.png",
+            "url": "/catalog/legkovye/21555-r17-94v-michelin-primacy-4-tl91508/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104121",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91508",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "13690.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104121",
+                    "AMOUNT": "9",
+                    "PRODUCT_XML_ID": "91508",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "13690.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104121",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91508",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "13690.00",
+                    "PRICE_ID": "19"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "",
+            "vendorCode": "481619",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 104051,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 13850,
+            "name": "225/50 R18 99W YOKOHAMA Advan Fleva V701 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/6c8/275_275_1/k082o8s057zacvx38sjvn2cmx54oz3gi.png",
+            "url": "/catalog/legkovye/22550-r18-99w-yokohama-advan-fleva-v701-tl91360/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104051",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91360",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "13850.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "393",
+            "vendorCode": "R3618",
+            "model": "Advan Fleva V701",
+            "raznItems": []
+        },
+        {
+            "id": 121488,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 2,
+            "season": "Летние",
+            "price": 14170,
+            "name": "245/45 R17 99Y NOKIAN TYRES Hakka Black 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/ced/275_275_1/uuq5b7ovjkak8o6vq0g5k4x5j858y7u4.png",
+            "url": "/catalog/legkovye/24545-r17-99y-nokian-tyres-hakka-black-2-tl93051/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121488",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "93051",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "14170.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430538",
+            "model": "Hakka Black 2",
+            "raznItems": []
+        },
+        {
+            "id": 104076,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 19,
+            "season": "Летние",
+            "price": 15070,
+            "name": "215/60 R16 99V MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/2df/275_275_1/gkt4u1udn4c6hzd3j7showz40f17a3z2.png",
+            "url": "/catalog/legkovye/21560-r16-99v-michelin-primacy-4-tl91463/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104076",
+                    "AMOUNT": "15",
+                    "PRODUCT_XML_ID": "91463",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "15070.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104076",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91463",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "15070.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "",
+            "vendorCode": "446848",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 104047,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "235 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 7,
+            "season": "Летние",
+            "price": 15290,
+            "name": "235/50 R19 99W YOKOHAMA Advan Sport V105S TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/06b/275_275_1/odlh91viesdsml60fweawi9e3i0him97.png",
+            "url": "/catalog/legkovye/23550-r19-99w-yokohama-advan-sport-v105s-tl91356/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104047",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "91356",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "15290.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104047",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91356",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "15290.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "R0153",
+            "model": "Advan Sport V105S",
+            "raznItems": []
+        },
+        {
+            "id": 103973,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 15290,
+            "name": "255/65 R17 110H MATADOR MP72 Izzarda A/T 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/3ec/275_275_1/k6v7qh23rfgi2tdrmujo0a09924h5kaf.png",
+            "url": "/catalog/legkovye/25565-r17-110h-matador-mp72-izzarda-at-2-tl91251/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "103973",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91251",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "15290.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "MATADOR",
+            "brandCode": "256",
+            "vendorCode": "1590196",
+            "model": "MP72 Izzarda A/T 2",
+            "raznItems": []
+        },
+        {
+            "id": 104022,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 15430,
+            "name": "265/50 R19 110Y NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/953/275_275_1/erebk14ppm1eqa0wha4hn8t9u71vcpys.png",
+            "url": "/catalog/legkovye/26550-r19-110y-nokian-tyres-hakka-black-2-suv-tl91330/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "104022",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91330",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "15430.00",
+                    "PRICE_ID": "10"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "",
+            "vendorCode": "T430573",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 104075,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 15740,
+            "name": "215/55 R16 97W MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/29e/275_275_1/z6rwdkregap3t5ipohqwt0vungprldlp.png",
+            "url": "/catalog/legkovye/21555-r16-97w-michelin-primacy-4-tl91462/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104075",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91462",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "15740.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "",
+            "vendorCode": "439623",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 104125,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 15820,
+            "name": "225/55 R17 101W MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/5b4/275_275_1/ady8b3woolvnu2zexdtb6w57dyoas3ho.png",
+            "url": "/catalog/legkovye/22555-r17-101w-michelin-primacy-4-tl91512/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104125",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91512",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "15820.00",
+                    "PRICE_ID": "19"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "273",
+            "vendorCode": "4481",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 121520,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 16050,
+            "name": "255/40 R18 99W YOKOHAMA Advan Fleva V701 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/62e/275_275_1/74dubbkm92tuiefuvlojjruxt1kg13el.png",
+            "url": "/catalog/legkovye/25540-r18-99w-yokohama-advan-fleva-v701-tl92958/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121520",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92958",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "16050.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "393",
+            "vendorCode": "R0419",
+            "model": "Advan Fleva V701",
+            "raznItems": []
+        },
+        {
+            "id": 104031,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 16470,
+            "name": "265/70 R17 121/118Q NOKIAN TYRES Rockproof TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/c86/275_275_1/a7k61if45tnahpblqi12kd3ebg5gqgfs.png",
+            "url": "/catalog/legkovye/26570-r17-121118q-nokian-tyres-rockproof-tl91339/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104031",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91339",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "16470.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430147",
+            "model": "Rockproof",
+            "raznItems": []
+        },
+        {
+            "id": 92407,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 16570,
+            "name": "265/50 R19 110Y YOKOHAMA Advan Sport V103B TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/065/275_275_1/klbedke103b3n7twktnoz497lsqx37ba.png",
+            "url": "/catalog/legkovye/26550-r19-110y-yokohama-advan-sport-v103b-tl94686/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92407",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "94686",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "16570.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "F2057",
+            "model": "Advan Sport V103B",
+            "raznItems": []
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "132591",
+        "url": "/promo/kupi-seychas-pereobuesh-potom/",
+        "name": "Купи сейчас, переобуешь потом",
+        "text": "Храним купленные шины бесплатно, пока не растает снег!",
+        "imgSrc": "/upload/resize_cache/iblock/f23/1075_613_1/o3a1rol4tesy733xp0x8qqy567tmv15f.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "diffWideMode": false,
+    "navNum": 1,
+    "pagesCount": 6,
+    "pageNum": 4
+}

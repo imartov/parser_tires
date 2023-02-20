@@ -1,0 +1,945 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=5",
+    "items": [
+        {
+            "id": 104152,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 17740,
+            "name": "255/50 R19 103W PIRELLI Scorpion Verde All Season TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/757/275_275_1/hrdg47aw10v8anvdeflurmzg3rmns713.png",
+            "url": "/catalog/legkovye/25550-r19-103w-pirelli-scorpion-verde-all-season-tl91600/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104152",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91600",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "17740.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "PIRELLI",
+            "brandCode": "",
+            "vendorCode": "3148900",
+            "model": "Scorpion Verde All-Season",
+            "raznItems": []
+        },
+        {
+            "id": 120112,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 17850,
+            "name": "245/35 R19 93W YOKOHAMA Advan Fleva V701 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/f66/275_275_1/cr6xjbv68c6mxvzhq9gfzs92lh0cd9w5.png",
+            "url": "/catalog/legkovye/24535-r19-93w-yokohama-advan-fleva-v701-tl94937/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "120112",
+                    "AMOUNT": "6",
+                    "PRODUCT_XML_ID": "94937",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "17850.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "393",
+            "vendorCode": "R3599",
+            "model": "Advan Fleva V701",
+            "raznItems": []
+        },
+        {
+            "id": 121443,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 26,
+            "season": "Летние",
+            "price": 17920,
+            "name": "215/50 R17 95Y MICHELIN Pilot Sport 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/cc9/275_275_1/hgj7ux5nz5xip3ynqzajuhk1rj4q34ak.png",
+            "url": "/catalog/legkovye/21550-r17-95y-michelin-pilot-sport-4-tl93116/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121443",
+                    "AMOUNT": "26",
+                    "PRODUCT_XML_ID": "93116",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "17920.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "273",
+            "vendorCode": "658683",
+            "model": "Pilot Sport 4",
+            "raznItems": []
+        },
+        {
+            "id": 104010,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 28,
+            "season": "Летние",
+            "price": 19040,
+            "name": "255/45 R19 104Y NOKIAN TYRES Hakka Black 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/c03/275_275_1/ltvimupw72hfxf0gg3k1868omh45n34t.png",
+            "url": "/catalog/legkovye/25545-r19-104y-nokian-tyres-hakka-black-2-tl91318/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104010",
+                    "AMOUNT": "28",
+                    "PRODUCT_XML_ID": "91318",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "19040.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430547",
+            "model": "Hakka Black 2",
+            "raznItems": []
+        },
+        {
+            "id": 104052,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 19120,
+            "name": "245/40 R20 99W YOKOHAMA Advan Fleva V701 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/536/275_275_1/lh3808metevtjaltcyl2sq14djxees10.png",
+            "url": "/catalog/legkovye/24540-r20-99w-yokohama-advan-fleva-v701-tl91361/",
+            "promo": [],
+            "discountStores": [
+                {
+                    "STORE_ID": "196",
+                    "PRODUCT_ID": "104052",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91361",
+                    "STORE_XML_ID": "617",
+                    "STORE_NAME": "Остатки 2018",
+                    "PRICE": "8000.00",
+                    "PRICE_ID": "99"
+                }
+            ],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104052",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91361",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "19120.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "393",
+            "vendorCode": "R3598",
+            "model": "Advan Fleva V701",
+            "raznItems": []
+        },
+        {
+            "id": 104130,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "235 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 19560,
+            "name": "235/45 R18 98W MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/b7f/275_275_1/y78zunbwtbpctozh3x1v5sbysgs6qg97.png",
+            "url": "/catalog/legkovye/23545-r18-98w-michelin-primacy-4-tl91517/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104130",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91517",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "19560.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "273",
+            "vendorCode": "409522",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 104107,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "19 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 20160,
+            "name": "225/45 R19 96W MICHELIN Pilot Sport 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/116/275_275_1/2f4c077a9rr31ja8z7kd1rsnpiawke8l.png",
+            "url": "/catalog/legkovye/22545-r19-96w-michelin-pilot-sport-4-tl91494/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104107",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91494",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "20160.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104107",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91494",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "20160.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "273",
+            "vendorCode": "977061",
+            "model": "Pilot Sport 4",
+            "raznItems": []
+        },
+        {
+            "id": 92348,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "18 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 20550,
+            "name": "245/45 R18 100Y PIRELLI P Zero TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/82b/275_275_1/5rfehptulaxcm2ioa7kwwgq6cye6p5z4.png",
+            "url": "/catalog/legkovye/24545-r18-100y-pirelli-p-zero-tl94501/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92348",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "94501",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "20550.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "PIRELLI",
+            "brandCode": "375",
+            "vendorCode": "1775900",
+            "model": "P Zero",
+            "raznItems": []
+        },
+        {
+            "id": 92334,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "255 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 20910,
+            "name": "255/45 R20 105V PIRELLI Scorpion Zero TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/e4d/275_275_1/bovpe73315kt0l82yt87swu36cno52b4.png",
+            "url": "/catalog/legkovye/25545-r20-105v-pirelli-scorpion-zero-tl94483/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92334",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "94483",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "20910.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "PIRELLI",
+            "brandCode": "375",
+            "vendorCode": "1825300",
+            "model": "Scorpion Zero",
+            "raznItems": []
+        },
+        {
+            "id": 92408,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "275 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 21710,
+            "name": "275/45 R20 110Y YOKOHAMA Advan Sport V103B TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/a80/275_275_1/cwjfjar2y9l39y0ofhxm3nw7cqd6dbrk.png",
+            "url": "/catalog/legkovye/27545-r20-110y-yokohama-advan-sport-v103b-tl94691/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92408",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "94691",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "21710.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "F2058",
+            "model": "Advan Sport V103B",
+            "raznItems": []
+        },
+        {
+            "id": 104048,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 22270,
+            "name": "265/45 R20 108Y YOKOHAMA Advan Sport V105T TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/741/275_275_1/475tviqc8znf9h6vh05bjq43x65lle9a.png",
+            "url": "/catalog/legkovye/26545-r20-108y-yokohama-advan-sport-v105t-tl91357/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104048",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "91357",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "22270.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "R0174",
+            "model": "Advan Sport V105T",
+            "raznItems": []
+        },
+        {
+            "id": 104027,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "275 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 22310,
+            "name": "275/45 R20 110Y NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/400/275_275_1/9ocvpd49l5inso6pfih53r3gmiswvfej.png",
+            "url": "/catalog/legkovye/27545-r20-110y-nokian-tyres-hakka-black-2-suv-tl91335/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104027",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91335",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "22310.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430579",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 104024,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "275 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 12,
+            "season": "Летние",
+            "price": 24630,
+            "name": "275/50 R20 113W NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/69e/275_275_1/3wp5jzpc7oxkt4k08nme1ovmgf1ndq96.png",
+            "url": "/catalog/legkovye/27550-r20-113w-nokian-tyres-hakka-black-2-suv-tl91332/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104024",
+                    "AMOUNT": "12",
+                    "PRODUCT_XML_ID": "91332",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "24630.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430575",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 104025,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "285 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "20 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 10,
+            "season": "Летние",
+            "price": 25070,
+            "name": "285/50 R20 116W NOKIAN TYRES Hakka Black 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/f39/275_275_1/736ah2rafe3pttydqkipgunr0krw46eo.png",
+            "url": "/catalog/legkovye/28550-r20-116w-nokian-tyres-hakka-black-2-suv-tl91333/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104025",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91333",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "25070.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104025",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91333",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "25070.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104025",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91333",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "25070.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "NOKIAN TYRES",
+            "brandCode": "277",
+            "vendorCode": "T430576",
+            "model": "Hakka Black 2 SUV",
+            "raznItems": []
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "132591",
+        "url": "/promo/kupi-seychas-pereobuesh-potom/",
+        "name": "Купи сейчас, переобуешь потом",
+        "text": "Храним купленные шины бесплатно, пока не растает снег!",
+        "imgSrc": "/upload/resize_cache/iblock/f23/1075_613_1/o3a1rol4tesy733xp0x8qqy567tmv15f.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "diffWideMode": false,
+    "navNum": 1,
+    "pagesCount": 6,
+    "pageNum": 5
+}

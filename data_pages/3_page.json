@@ -1,0 +1,1091 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=3",
+    "items": [
+        {
+            "id": 104063,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 26,
+            "season": "Летние",
+            "price": 6960,
+            "name": "225/65 R17 106H CORDIANT Comfort 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/7fc/275_275_1/cqe6nv1u59don6xf5d2acki2lw78rxpk.png",
+            "url": "/catalog/legkovye/22565-r17-106h-cordiant-comfort-2-suv-tl91376/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104063",
+                    "PRODUCT_NAME": "225/65 R17 106H CORDIANT Comfort 2 SUV TL",
+                    "PRODUCT_WIDTH": "225",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "17",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66888",
+                    "servicePrice": "620"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104063",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91376",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "6960.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104063",
+                    "AMOUNT": "14",
+                    "PRODUCT_XML_ID": "91376",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "6960.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104063",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91376",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "6960.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104063",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91376",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "6960.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732066690",
+            "model": "Comfort 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 168872,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 7100,
+            "name": "225/65 R17 106H CORDIANT GRAVITY SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/local/templates/roscar/img/svg/product-temp.svg",
+            "url": "/catalog/legkovye/22565-r17-106h-cordiant-gravity-suv-tl38588/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "168872",
+                    "PRODUCT_NAME": "225/65 R17 106H CORDIANT GRAVITY SUV TL",
+                    "PRODUCT_WIDTH": "225",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "17",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66888",
+                    "servicePrice": "620"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "168872",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "38588",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "7100.00",
+                    "PRICE_ID": "10"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "1461461127",
+            "model": "GRAVITY SUV",
+            "raznItems": []
+        },
+        {
+            "id": 92209,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 108,
+            "season": "Летние",
+            "price": 7380,
+            "name": "215/65 R16 98H CORDIANT All Terrain TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/341/275_275_1/yg0iu4nv4gefbml50ms3rqyqye17w7ki.png",
+            "url": "/catalog/legkovye/21565-r16-98h-cordiant-all-terrain-tl92970/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "92209",
+                    "PRODUCT_NAME": "215/65 R16 98H CORDIANT All Terrain TL",
+                    "PRODUCT_WIDTH": "215",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": "Внедорожные (АТ, МТ)",
+                    "serviceCode": "20970",
+                    "servicePrice": "610"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "92209",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92970",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "7380.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92209",
+                    "AMOUNT": "104",
+                    "PRODUCT_XML_ID": "92970",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "7380.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "481661926",
+            "model": "All Terrain",
+            "raznItems": []
+        },
+        {
+            "id": 92211,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 12,
+            "season": "Летние",
+            "price": 7680,
+            "name": "215/70 R16 100H CORDIANT All Terrain TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/650/275_275_1/og3dcjop7bhjfve9hzay7vnjd133f22v.png",
+            "url": "/catalog/legkovye/21570-r16-100h-cordiant-all-terrain-tl92972/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "92211",
+                    "PRODUCT_NAME": "215/70 R16 100H CORDIANT All Terrain TL",
+                    "PRODUCT_WIDTH": "215",
+                    "PRODUCT_HEIGHT": "70",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": "Внедорожные (АТ, МТ)",
+                    "serviceCode": "20970",
+                    "servicePrice": "610"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92211",
+                    "AMOUNT": "12",
+                    "PRODUCT_XML_ID": "92972",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "7680.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "293517627",
+            "model": "All Terrain",
+            "raznItems": []
+        },
+        {
+            "id": 104068,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 9,
+            "season": "Летние",
+            "price": 7740,
+            "name": "225/75 R16 108T CORDIANT Comfort 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/823/275_275_1/om6dq1sf4ebtudhwkx0bc3w3d13ic3jd.png",
+            "url": "/catalog/legkovye/22575-r16-108t-cordiant-comfort-2-suv-tl91381/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104068",
+                    "PRODUCT_NAME": "225/75 R16 108T CORDIANT Comfort 2 SUV TL",
+                    "PRODUCT_WIDTH": "225",
+                    "PRODUCT_HEIGHT": "75",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "20970",
+                    "servicePrice": "610"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104068",
+                    "AMOUNT": "9",
+                    "PRODUCT_XML_ID": "91381",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "7740.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732066713",
+            "model": "Comfort 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 92210,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "225 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 7,
+            "season": "Летние",
+            "price": 7780,
+            "name": "225/70 R16 103H CORDIANT All Terrain TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/a25/275_275_1/u9janmjqccahvnv585eg5r6y6dcifq22.png",
+            "url": "/catalog/legkovye/22570-r16-103h-cordiant-all-terrain-tl92971/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "92210",
+                    "PRODUCT_NAME": "225/70 R16 103H CORDIANT All Terrain TL",
+                    "PRODUCT_WIDTH": "225",
+                    "PRODUCT_HEIGHT": "70",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": "Внедорожные (АТ, МТ)",
+                    "serviceCode": "20970",
+                    "servicePrice": "610"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92210",
+                    "AMOUNT": "7",
+                    "PRODUCT_XML_ID": "92971",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "7780.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "293517634",
+            "model": "All Terrain",
+            "raznItems": []
+        },
+        {
+            "id": 104064,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "235 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 44,
+            "season": "Летние",
+            "price": 7950,
+            "name": "235/65 R17 108H CORDIANT Comfort 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/6c2/275_275_1/jtopjlj70ewo0mgl8r3ilbrbvnq0ycj9.png",
+            "url": "/catalog/legkovye/23565-r17-108h-cordiant-comfort-2-suv-tl91377/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104064",
+                    "PRODUCT_NAME": "235/65 R17 108H CORDIANT Comfort 2 SUV TL",
+                    "PRODUCT_WIDTH": "235",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "17",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "20971",
+                    "servicePrice": "690"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104064",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91377",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "7950.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104064",
+                    "AMOUNT": "36",
+                    "PRODUCT_XML_ID": "91377",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "7950.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104064",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91377",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "7950.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732068462",
+            "model": "Comfort 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 121450,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 2,
+            "season": "Летние",
+            "price": 8920,
+            "name": "215/55 R17 98W BFGOODRICH Advantage TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/0f3/275_275_1/uqu0sx850a1f571otq2l2scnp4po0sk2.png",
+            "url": "/catalog/legkovye/21555-r17-98w-bfgoodrich-advantage-tl93109/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121450",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "93109",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "8920.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "BFGOODRICH",
+            "brandCode": "",
+            "vendorCode": "814713",
+            "model": "Advantage",
+            "raznItems": []
+        },
+        {
+            "id": 120126,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 9190,
+            "name": "215/60 R16 99H BRIDGESTONE Turanza T005 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/5ae/275_275_1/mvjjsnzm6ge32jpmaltq1z446rodmo96.png",
+            "url": "/catalog/legkovye/21560-r16-99h-bridgestone-turanza-t005-tl94871/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "120126",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "94871",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "9190.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "BRIDGESTONE",
+            "brandCode": "250",
+            "vendorCode": "10883",
+            "model": "Turanza T005",
+            "raznItems": []
+        },
+        {
+            "id": 104036,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 9350,
+            "name": "215/65 R17 99V YOKOHAMA BluEarth-A AE50 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/84a/275_275_1/t79awzu39jfkkxgd2oxx36v1jni2pizd.png",
+            "url": "/catalog/legkovye/21565-r17-99v-yokohama-bluearth-a-ae50-tl91345/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104036",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91345",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "9350.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "YOKOHAMA",
+            "brandCode": "",
+            "vendorCode": "R2151",
+            "model": "BluEarth-A AE50",
+            "raznItems": []
+        },
+        {
+            "id": 104069,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "265 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 17,
+            "season": "Летние",
+            "price": 9940,
+            "name": "265/65 R17 116H CORDIANT Comfort 2 SUV TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/651/275_275_1/4tubfaot76ey84rbwmonmd8x636r0kd6.png",
+            "url": "/catalog/legkovye/26565-r17-116h-cordiant-comfort-2-suv-tl91382/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104069",
+                    "PRODUCT_NAME": "265/65 R17 116H CORDIANT Comfort 2 SUV TL",
+                    "PRODUCT_WIDTH": "265",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "17",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "20971",
+                    "servicePrice": "690"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104069",
+                    "AMOUNT": "17",
+                    "PRODUCT_XML_ID": "91382",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "9940.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732068558",
+            "model": "Comfort 2 SUV",
+            "raznItems": []
+        },
+        {
+            "id": 121459,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 10140,
+            "name": "205/70 R15 96H BFGOODRICH Urban Terrain T/A TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/3fc/275_275_1/3p0ti0d508xv2kvzcoz4i2l1fnrekwuh.png",
+            "url": "/catalog/legkovye/20570-r15-96h-bfgoodrich-urban-terrain-ta-tl93100/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121459",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "93100",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "10140.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "BFGOODRICH",
+            "brandCode": "268",
+            "vendorCode": "517558",
+            "model": "Urban Terrain T/A",
+            "raznItems": []
+        },
+        {
+            "id": 104127,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "235 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "17 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 7,
+            "season": "Летние",
+            "price": 11090,
+            "name": "235/45 R17 97W MICHELIN Primacy 4 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/605/275_275_1/6u8r8414x0xiuspal3gxb3v69muefn6i.png",
+            "url": "/catalog/legkovye/23545-r17-97w-michelin-primacy-4-tl91514/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104127",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "91514",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "11090.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104127",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91514",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "11090.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "MICHELIN",
+            "brandCode": "",
+            "vendorCode": "129634",
+            "model": "Primacy 4",
+            "raznItems": []
+        },
+        {
+            "id": 92208,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "245 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 9,
+            "season": "Летние",
+            "price": 11160,
+            "name": "245/70 R16 111Q CORDIANT Off Road TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/c3f/275_275_1/1w1wopxymmitxms010ifiz8rjppss5ix.png",
+            "url": "/catalog/legkovye/24570-r16-111q-cordiant-off-road-tl92969/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "92208",
+                    "PRODUCT_NAME": "245/70 R16 111Q CORDIANT Off Road TL",
+                    "PRODUCT_WIDTH": "245",
+                    "PRODUCT_HEIGHT": "70",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": "Внедорожные (АТ, МТ)",
+                    "serviceCode": "20970",
+                    "servicePrice": "610"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92208",
+                    "AMOUNT": "9",
+                    "PRODUCT_XML_ID": "92969",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "11160.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "366617414",
+            "model": "Off Road",
+            "raznItems": []
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "132591",
+        "url": "/promo/kupi-seychas-pereobuesh-potom/",
+        "name": "Купи сейчас, переобуешь потом",
+        "text": "Храним купленные шины бесплатно, пока не растает снег!",
+        "imgSrc": "/upload/resize_cache/iblock/f23/1075_613_1/o3a1rol4tesy733xp0x8qqy567tmv15f.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "diffWideMode": false,
+    "navNum": 1,
+    "pagesCount": 6,
+    "pageNum": 3
+}
